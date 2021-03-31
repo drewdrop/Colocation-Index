@@ -1,4 +1,4 @@
-# Colaction-Coagglomeration-Index
+# Colocation Index or CoagglomerationIndex
 ## Author： Lu Chen (Southeast University ,China) 
 
 ### Introduction
