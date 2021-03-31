@@ -13,7 +13,7 @@ The program is based on the Wasserstein distance algorithm of machine learning, 
 
 
 ### Installation
-The core call module is ot. Install the module by "pip install POT".
+The core call module is ot. Install the module by "pip install POT"  
 install CUDA
 
 ### Files
