@@ -17,7 +17,7 @@ The core call module is ot. Install the module by "pip install POT"
 install CUDA
 
 ### Files
-**example.csv**: We provide a demo file which includes all enterprises in a certain area of China. The core indicators include three digit industry code（SIC3 or SIC2）, geographic information (longitude and latitude) and region code(city) .
+**example.csv**: We provide a demo file which includes all enterprises in a certain area of China. The core indicators include digit industry code（SIC3 or SIC2）, geographic information (longitude and latitude) and region code(city) .
 
 
 ### References
