@@ -27,5 +27,5 @@ install CUDA
 
 [3] Billings S B, and Johnson E B. Agglomeration within an urban area[J]. Journal of Urban Economics. 2016, 91: 13-25.
 
-[4] Lu Chen, Xiuyan Liu, Xinyue Ye and Hanhui Hu. Industrial Coagglomeration and Industrial Spatial Governance of Urban Cluster: Measurement Based on Machine Learning Algorithm and Analysis of Influence Factors[J]. China Industrial Economics,2020(05):99-117.
+[4] Lu Chen, Xiuyan Liu, Xinyue Ye and Hanhui Hu. Industrial Coagglomeration and Industrial Spatial Governance of Urban Cluster: Measurement Based on Machine Learning Algorithm and Analysis of Influence Factors[J]. China Industrial Economics,2020(05):99-117.  
 Chinese Journal version: 陈露，刘修岩，叶信岳，胡汉辉. 城市群视角下的产业共聚与产业空间治理：机器学习算法的测度[J]. 中国工业经济. 2020(05): 99-117.
